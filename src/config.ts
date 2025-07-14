@@ -62,6 +62,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/NCTp",
 		},
+                {
+			name: "BrunchStory",
+			icon: "fa6-brands:github",
+			url: "https://brunch.co.kr/@ebbf1fdaf298453",
+		},
 	],
 };
 
