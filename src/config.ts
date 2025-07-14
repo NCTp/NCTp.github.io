@@ -63,7 +63,7 @@ export const profileConfig: ProfileConfig = {
 			url: "https://github.com/NCTp",
 		},
 		{
-			name: "Steam",
+			name: "BrunchStory",
 			icon: "fa6-brands:steam",
 			url: "https://brunch.co.kr/@ebbf1fdaf298453",
 		},
