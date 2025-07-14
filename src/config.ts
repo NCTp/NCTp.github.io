@@ -64,7 +64,7 @@ export const profileConfig: ProfileConfig = {
 		},
                 {
 			name: "BrunchStory",
-			icon: "fa6-brands:github",
+			icon: "fa6-brands:steam",
 			url: "https://brunch.co.kr/@ebbf1fdaf298453",
 		},
 	],
