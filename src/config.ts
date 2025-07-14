@@ -66,7 +66,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Steam",
-			icon: "fa6-brands:steam",
+			icon: "fa-solid fa-book",
 			url: "https://store.steampowered.com",
 		},
 		{
